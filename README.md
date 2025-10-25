@@ -135,7 +135,4 @@ The **stacked regressor (`mod3.pkl`)** combines:
 
 ```
 
----
-
-Would you like me to include a **diagram of the data flow (upload → preprocess → model → dashboard)** section inside this README (for GitHub documentation)?
 ```
